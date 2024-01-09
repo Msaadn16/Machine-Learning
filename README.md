@@ -1,3 +1,3 @@
-# Machine-Learning
+# Machine Learning Repository
 
-This Repsitory is the showcasing platform for my ML projects. Have a look and share a feedback on msaadn16@outlook.com
+This Repository is the showcasing platform for my ML projects. Have a look and share feedback on msaadn16@outlook.com!
